@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1674822990 source:c:\users\7ngl\desktop\desktop term 3\c project file\c project final\project final without header\main.c
+	<stdio.h>
+	<ctype.h>
+	<strings.h>
+	<time.h>
+
